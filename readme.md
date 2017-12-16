@@ -17,11 +17,11 @@ Couple of weeks ago we’ve started talking about making something together. I t
 I think it’s easy to guess the rules – it was supposed to be a kind of “game”. One of two players hits the button and the opponent's health points are decreased. Really simple game.
 
 ![image](https://user-images.githubusercontent.com/33101796/34072850-ed0c9b4c-e28e-11e7-82e1-f4138078cfb7.png)
-*We were discussing about the gameplay and weapons a lot, until @Ola suggested another way: Maybe weapons should be selected randomly? We made a new prototype 😊*
+*We were discussing about the gameplay and weapons a lot, until @Ola suggested another way: Maybe weapons should be selected randomly? We made a new prototype* 😊
 
-During one of our brainstorming sessions, **@MalgoskaG** (who is a really good illustrator) proposed to change Worms to another, unique characters. That was when Mad Tadpoles came to be.:) Malgosia's tadpoles are great because they have their own personality.
+During one of our brainstorming sessions, **@MalgoskaG** (who is a really good illustrator) proposed to change Worms to another, unique characters. That was when Mad Tadpoles came to be.😊 Malgosia's tadpoles are great because they have their own personality.
 After that, I made a new design of the app based on Tadpoles. After those changes our game was starting to look really professional.
-When project of our UI was done, Malgosia made general XML layout. She used Constraint Layout which is a new, amazing way to build Android app layouts. She worked a lot with our app graphics and helped with java code too. She shared her experience with Constraint Layout and graphic design with us, so all of us could learn something new. When we had a really good app design (at least in our heads ;p) and heads full of ideas, we’ve started to work on the game logic.
+When project of our UI was done, Malgosia made general XML layout. She used Constraint Layout which is a new, amazing way to build Android app layouts. She worked a lot with our app graphics and helped with java code too. She shared her experience with Constraint Layout and graphic design with us, so all of us could learn something new. When we had a really good app design (at least in our heads 😊) and heads full of ideas, we’ve started to work on the game logic.
 I wrote some methods for countdown, random attack buttons, pop-up window in which user could change the names of tadpoles and some other stuff. Next **@Ola, @Mateusz, @Cezary** and **@MisQlak** joined to write a code.
 
 ![image](https://user-images.githubusercontent.com/33101796/34072858-0d318158-e28f-11e7-843b-679a344fe310.png)
