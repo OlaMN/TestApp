@@ -54,6 +54,7 @@ We hope that everyone could use our work and maybe next projects will be bigger,
 We encourage everyone to write an application inspired by this course. We think that it will teach you many new things like it have teached us. We are happy to share our small (for now!) experience with all of you. ;)
 
 **We are really happy that we are here. Udacity & Google proves to us that programming can be funny and social. :D It’s very interesting journey.
+
 So remember - don't give up, you are not alone on this journey. ;)**
 
 
