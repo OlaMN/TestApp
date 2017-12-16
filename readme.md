@@ -17,6 +17,7 @@ Couple of weeks ago we’ve started talking about making something together. I t
 I think it’s easy to guess the rules – it was supposed to be a kind of “game”. One of two players hits the button and the opponent's health points are decreased. Really simple game.
 
 ![image](https://user-images.githubusercontent.com/33101796/34072850-ed0c9b4c-e28e-11e7-82e1-f4138078cfb7.png)
+
 *We were discussing about the gameplay and weapons a lot, until @Ola suggested another way: Maybe weapons should be selected randomly? We made a new prototype* 😊
 
 During one of our brainstorming sessions, **@MalgoskaG** (who is a really good illustrator) proposed to change Worms to another, unique characters. That was when Mad Tadpoles came to be.😊 Malgosia's tadpoles are great because they have their own personality.
