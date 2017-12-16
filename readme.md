@@ -6,7 +6,7 @@ I am really happy to introduce you game, that was made by group of people from o
 
 ![image](https://user-images.githubusercontent.com/33101796/34072829-987035c6-e28e-11e7-8485-9688fb0b9527.png)
 
-https://www.youtube.com/watch?v=Ii1YuBTzZC4
+[![image](https://user-images.githubusercontent.com/33101796/34073036-86368a42-e291-11e7-8465-b76ba4131eaf.png)](https://www.youtube.com/watch?v=Ii1YuBTzZC4)
 
 ![image](https://user-images.githubusercontent.com/33101796/34072837-ce529ce2-e28e-11e7-822f-e70d1b60bad7.png)
 *Mad Tadpoles is in beta stage now. We are still working on it. If you want to install it on your phone, just download apk file from main catalogue on beta branch on github*
