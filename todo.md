@@ -20,3 +20,4 @@ describe the concepts and functions used in a simple application
 - [ ] Graphic in Android apps - good practices
 - [ ] Basic programming concepts - variables, classes, functions
 - [ ] What is gradle and how to use it? +Android application structure
+- [ ] How to use github
