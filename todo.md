@@ -21,3 +21,4 @@ describe the concepts and functions used in a simple application
 - [ ] Basic programming concepts - variables, classes, functions
 - [ ] What is gradle and how to use it? +Android application structure
 - [ ] How to use github
+- [ ] And some other stuff..
